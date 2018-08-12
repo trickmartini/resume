@@ -23,7 +23,7 @@ resume_contact_address:         "742 Evergreen Terrace, Springfield"
 resume_header_contact_info:     " Santa cruz do sul - Brazil  • trickmartini@gmail.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>Acadêmico de Engenharia de Computação na Universidade de Santa Cruz do sul, e bolsista de Iniciação Científica, atuando como desenvolvedor front-end pelo projeto <a href='wearable.unisc.br'>Computação Wearable Aplicada no Monitoramento e Análise de Pacientes em Pós-Consulta</a> (wearable.unisc.br).</p>"
+resume_header_intro: "<p>Acadêmico de Engenharia de Computação na Universidade de Santa Cruz do sul, e bolsista de Iniciação Científica, atuando como desenvolvedor front-end pelo projeto Computação Wearable Aplicada no Monitoramento e Análise de Pacientes em Pós-Consulta.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
