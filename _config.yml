@@ -1,5 +1,5 @@
 # Site settings
-title: "Jekyll Resume Template"
+title: "Resume"
 description: "A resume template for Jekyll and GitHub Pages sites."
 
 # Build settings
@@ -9,7 +9,7 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "false"
+resume_avatar:                  "true"
 resume_name:                    "Patrick Martini"
 resume_title:                   "-"
 
