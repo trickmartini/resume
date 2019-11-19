@@ -4,7 +4,7 @@
 - company: Projeto Data4Care
   position: Data Analyst
   duration: Jan, 2019 &mdash; atualmente
-  summary: Análise de dados.
+ # summary: Análise de dados.
 
 #pesquisa
 - company: Projeto Computação Wearable Aplicada no Monitoramento de Pacientes em Pós Consulta
